@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleContactStore</string>
+    <string name="save">SAVE</string>
+    <string name="enter_age_here">Enter age here</string>
+    <string name="enter_number_here">Enter number here</string>
+    <string name="enter_name_here">Enter name here</string>
+</resources>

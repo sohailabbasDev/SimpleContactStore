@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22827386530",
+    "project_id": "simplecontactstore",
+    "storage_bucket": "simplecontactstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22827386530:android:129d867b3afc4cf82079fb",
+        "android_client_info": {
+          "package_name": "com.sohail.simplecontactstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22827386530-7f1phlutql3evdgg6frfmhpjgiuo9jk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF3HNdinyvMQVX04S4nNCmnHowwJj1PFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22827386530-7f1phlutql3evdgg6frfmhpjgiuo9jk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
